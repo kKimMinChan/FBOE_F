@@ -284,6 +284,14 @@ header {
   }
 }
 
+//contact us
+.contact {
+  > .inner {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
 // awards
 .awards {
   padding: 40px 0;
